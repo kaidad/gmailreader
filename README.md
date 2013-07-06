@@ -1,0 +1,1 @@
+Simple utility to read emails from GMail account and extract sender addresses to CSV file.
